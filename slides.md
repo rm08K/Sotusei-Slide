@@ -23,7 +23,7 @@ class: text-center
 
 ---
 layout: image-right
-image: toppage.png
+image: img/toppage.png
 ---
 
 # 概要 
