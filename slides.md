@@ -17,7 +17,7 @@ drawings:
 layout: center
 class: text-center
 ---
-<!-- 概要 -->
+<!-- ~~~~~~~~~~概要~~~~~~~~~~ -->
 
 # 概要
 
@@ -42,7 +42,7 @@ PCとiPhone上からアクセスが可能で、いくつかの楽器を触るこ
 layout: center
 class: text-center
 --- 
-<!-- 動機目的 -->
+<!-- ~~~~~~~~~~動機目的~~~~~~~~~~ -->
 
 # 動機・目的
 
@@ -95,4 +95,109 @@ Web上で音楽を聴く機会はここ数年で急激に増えている。
 </div>
 
 ---
+layout: center
+class: text-center
+--- 
+<!-- ~~~~~~~~~~成果物の説明~~~~~~~~~~ -->
 
+# 成果物の説明
+
+---
+layout: center
+class: text-center
+--- 
+
+## トップページ
+
+---
+layout: iframe
+url: https://rm08k.github.io/Sotusei/
+---
+
+---
+layout: center
+class: text-center
+--- 
+
+## MusicLader
+
+---
+layout: iframe
+url: https://rm08k.github.io/Sotusei/MusicLadar
+---
+
+---
+layout: center
+class: text-center
+--- 
+
+## Rhythm
+
+---
+layout: iframe
+url: https://rm08k.github.io/Sotusei/Rhythm
+---
+
+---
+layout: center
+class: text-center
+--- 
+
+## Maracas
+
+---
+layout: iframe-right
+url: https://rm08k.github.io/Sotusei/Maracas
+---
+
+## Maracas
+<br>
+
+<MaracasQR />
+
+---
+layout: center
+class: text-center
+--- 
+
+## SmartCoil
+
+---
+layout: iframe-right
+url: https://rm08k.github.io/Sotusei/SmartCoil
+---
+
+## Smartcoil
+<br>
+
+<SmartCoilQR />
+
+---
+layout: center
+class: text-center
+--- 
+<!-- ~~~~~~~~~~終わりに~~~~~~~~~~ -->
+
+# 終わりに
+
+---
+
+# 作品を通して感じたこと
+<br>
+
+<div class="after" v-click="1">
+<br>
+
+今回の作成には「Nuxt.js」と呼ばれるJavascriptライブラリを使って制作をした。
+
+しかし、Nuxt.jsを使うことによって、素のJavascriptとは違った難易度になってしまった。
+
+結果的には、楽器として演奏できる状態まで持って行けたのは良かったと考える。
+
+</div>
+<div class="after" v-click="2">
+<br>
+
+そして、Webサイトで音を扱うことの難しさと、それを理解し扱うことのUXの向上性はとても大きなことだということを学んだ。
+
+</div>
