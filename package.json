@@ -11,5 +11,5 @@
     "@slidev/theme-seriph": "*",
     "playwright-chromium": "^1.17.2"
   },
-  "name": "slidev"
+  "name": "sotusei-slide"
 }
